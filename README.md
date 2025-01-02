@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **metadata analysis for the Mobile Health for Global Health Lab at Vanderbilt**
 
-- 🌱 I’m currently learning **operating systems within the Linux shell**
+- 🌱 Check out my website https://dmajji.github.io/Dheemanth-Majji-Portfolio/**
 
 - 👯 I’m looking to collaborate on **AI / ML projects**
 
