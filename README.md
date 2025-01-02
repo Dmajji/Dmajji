@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **metadata analysis for the Mobile Health for Global Health Lab at Vanderbilt**
 
-- 🌱 Check out my website https://dmajji.github.io/Dheemanth-Majji-Portfolio/**
+- 🌱 Check out my website https://dmajji.github.io/Dheemanth-Majji-Portfolio
 
 - 👯 I’m looking to collaborate on **AI / ML projects**
 
