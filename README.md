@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheemanth Sai Majji</h1>
-<h3 align="center">Passionate hopeful SWE from Vanderbilt University School of Engineering</h3>
-
-- 🔭 I’m currently working at **Amazon as a Software Development Engineer**
+<h3 align="center">Passionate SWE from Vanderbilt University School of Engineering</h3>
 
 - 👯 I’m looking to collaborate on **AI / ML projects**
 
